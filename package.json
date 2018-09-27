@@ -1,0 +1,25 @@
+{
+  "name": "GreatBay",
+  "version": "1.0.0",
+  "description": "**Instructions**",
+  "main": "scripts.js",
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tom-schof/GreatBay.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tom-schof/GreatBay/issues"
+  },
+  "homepage": "https://github.com/tom-schof/GreatBay#readme"
+}
